@@ -1,0 +1,34 @@
+Error getting bulk sales: FirebaseError: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/unimarket-84eca/firestore/indexes?create_composite=ClFwcm9qZWN0cy91bmltYXJrZXQtODRlY2EvZGF0YWJhc2VzLyhkZWZhdWx0KS9jb2xsZWN0aW9uR3JvdXBzL2J1bGtTYWxlcy9pbmRleGVzL18QARoMCghpc0FjdGl2ZRABGg0KCWNyZWF0ZWRBdBACGgwKCF9fbmFtZV9fEAI
+    _FirebaseError errors.ts:85
+    FirestoreError error.ts:228
+    __PRIVATE_fromRpcStatus serializer.ts:165
+    __PRIVATE_fromWatchChange serializer.ts:515
+    onNext persistent_stream.ts:671
+    V_ persistent_stream.ts:541
+    R_ persistent_stream.ts:595
+    enqueue async_queue_impl.ts:136
+    t async_queue_impl.ts:187
+firebase.ts:770:12
+Index error in Firestore query, falling back to client-side filtering: FirebaseError: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/unimarket-84eca/firestore/indexes?create_composite=ClBwcm9qZWN0cy91bmltYXJrZXQtODRlY2EvZGF0YWJhc2VzLyhkZWZhdWx0KS9jb2xsZWN0aW9uR3JvdXBzL3Byb2R1Y3RzL2luZGV4ZXMvXxABGgoKBmlzU29sZBABGg0KCWNyZWF0ZWRBdBACGgwKCF9fbmFtZV9fEAI
+    _FirebaseError errors.ts:85
+    FirestoreError error.ts:228
+    __PRIVATE_fromRpcStatus serializer.ts:165
+    __PRIVATE_fromWatchChange serializer.ts:515
+    onNext persistent_stream.ts:671
+    V_ persistent_stream.ts:541
+    R_ persistent_stream.ts:595
+    enqueue async_queue_impl.ts:136
+    t async_queue_impl.ts:187
+firebase.ts:317:14
+product search option is not working, Buying option is not working, Make sure product edit option is there for sellers, whatsapp chat re-directing is not working, implement signup and signin with google properly, messages and notifications are not working. in similar item section show relevent products only. don't use any demo product listings, make sure bidding functionalities working properly.Error getting messages for user: FirebaseError: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/unimarket-84eca/firestore/indexes?create_composite=ClBwcm9qZWN0cy91bmltYXJrZXQtODRlY2EvZGF0YWJhc2VzLyhkZWZhdWx0KS9jb2xsZWN0aW9uR3JvdXBzL21lc3NhZ2VzL2luZGV4ZXMvXxABGg4KCnJlY2VpdmVySWQQARoNCgljcmVhdGVkQXQQAhoMCghfX25hbWVfXxAC
+    _FirebaseError errors.ts:85
+    FirestoreError error.ts:228
+    __PRIVATE_fromRpcStatus serializer.ts:165
+    __PRIVATE_fromWatchChange serializer.ts:515
+    onNext persistent_stream.ts:671
+    V_ persistent_stream.ts:541
+    R_ persistent_stream.ts:595
+    enqueue async_queue_impl.ts:136
+    t async_queue_impl.ts:187
+firebase.ts:612:12
+fix all the errors given properly to run the application as per desired without any hassle. crosscheck each and every functionality and make sure every thing working as expected.
